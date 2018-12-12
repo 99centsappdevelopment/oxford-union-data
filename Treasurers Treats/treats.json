@@ -1,0 +1,392 @@
+[
+    {
+        "name": "Angels",
+        "description": "Happy Hour prices (Sun–Fri)",
+        "url": "https://www.angelscocktailbar.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Be At One",
+        "description": "2 Cocktails for £10 (Sun-Thu)",
+        "url": "https://www.beatone.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Cinnamon Kitchen Oxford",
+        "description": "2 cocktails for £10 (Sun-Thu)",
+        "url": "http://www.cinnamon-kitchen.com/westgate-oxford/",
+        "type": "Bars"
+    },
+    {
+        "name": "Duke of Cambridge",
+        "description": "Oxford Union Cocktail Menu, Happy Hour prices (Sun–Thu)",
+        "url": "http://www.dukebar.com/",
+        "type": "Bars"
+    },
+    {
+        "name": "Duke of Monmouth",
+        "description": "10% Discount on purchases up to £20",
+        "url": "https://www.greeneking-pubs.co.uk/pubs/oxfordshire/duke-of-monmouth/",
+        "type": "Bars"
+    },
+    {
+        "name": "Hanks Bar",
+        "description": "20% Discount",
+        "url": "http://www.hanksbar.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "The House",
+        "description": "Oxford Union Cocktail Menu, Happy Hour prices (Sun–Thu)",
+        "url": "http://www.housebar.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Jude The Obscure",
+        "description": "10% Discount on purchases up to £20",
+        "url": "https://www.greeneking-pubs.co.uk/pubs/oxfordshire/jude-the-obscure/",
+        "type": "Bars"
+    },
+    {
+        "name": "Oxford Wine Cafe",
+        "description": "10% discount",
+        "url": "http://www.oxfordwinecafe.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Raoul's",
+        "description": "30% discount (16:00–20:00)",
+        "url": "http://www.raoulsbar.com/",
+        "type": "Bars"
+    },
+    {
+        "name": "Royal Standard",
+        "description": "10% Discount on purchases up to £20",
+        "url": "https://www.greeneking-pubs.co.uk/pubs/oxfordshire/royal-standard/",
+        "type": "Bars"
+    },
+    {
+        "name": "Sandy's Piano Bar",
+        "description": "25% discount on selected drinks (Sun-Thu)",
+        "url": "http://www.sandyspianobar.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Art Café",
+        "description": "10% discount",
+        "url": "http://www.artcafeoxford.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Artisan Café",
+        "description": "Spend £5 and get free cake",
+        "url": "https://www.facebook.com/pages/category/Coffee-Shop/Artisan-Caf%C3%A9-178256882744198/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Barefoot",
+        "description": "15% off cakes & hot drinks (exc. Mon-Fri, 14:00-18:00)",
+        "url": "http://www.barefootoxford.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Common Ground",
+        "description": "15% discount in cafe, one free Live Learn Love Yoga class",
+        "url": "https://commongroundstudy.space/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Demijohns",
+        "description": "10% discount & free gift wrapping",
+        "url": "https://www.demijohn.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Formosan Tea Bar",
+        "description": "10% discount",
+        "url": "http://www.formosan.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Handlebar",
+        "description": "30% off coffee (Mon-Sat after 18:00)",
+        "url": "https://www.facebook.com/The-Handle-Bar-Cafe-and-Kitchen-209000052473648/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "iScream Gelateria",
+        "description": "10% discount",
+        "url": "http://www.iscreamoxford.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "JimBob's",
+        "description": "15% discount",
+        "url": "http://www.jimbobsbaguettes.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Modern Art Oxford Café",
+        "description": "10% discount",
+        "url": "https://www.modernartoxford.org.uk/cafe/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Moo-Moo's",
+        "description": "10% discount",
+        "url": "http://www.moo-moos.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Natural Buzz",
+        "description": "10% discount",
+        "url": "http://thenaturalbuzz.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Nectar",
+        "description": "10% discount",
+        "url": "http://nectarcafe.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Opera Cafe",
+        "description": "10% discount",
+        "url": "https://www.facebook.com/operacafeoxford/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Oxford Sandwich Cafe",
+        "description": "5% discount",
+        "url": "https://plus.google.com/101446234399715061352",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Paul",
+        "description": "10% discount",
+        "url": "https://www.paul-uk.com/find-a-paul/french-bakery-cafe-oxford",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Queen's Lane Coffee House",
+        "description": "10% discount",
+        "url": "http://www.qlcoffeehouse.com/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Smööy Frozen Yogurt",
+        "description": "10% discount",
+        "url": "http://smooy.com/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Sofi de France",
+        "description": "15% discount (20% if over £20)",
+        "url": "http://cafedumarche-oxford.com/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "The Handlebar",
+        "description": "30p off coffee (Mon–Sat after 18:00)",
+        "url": "https://www.facebook.com/The-Handle-Bar-Cafe-and-Kitchen-209000052473648/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Tick Tock Café",
+        "description": "10% discount",
+        "url": "https://www.facebook.com/pages/Tick-Tock-Cafe/169376416421689",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "Vaults & Garden Café",
+        "description": "10% discount (excl. 12:00–14:00), 20% food discount (on weekdays after 14:30)",
+        "url": "http://www.thevaultsandgarden.com/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "West Cornwall Pasty",
+        "description": "20% discount",
+        "url": "http://westcornwallpasty.co.uk/",
+        "type": "Cafés & Delicatessens"
+    },
+    {
+        "name": "The Alchemist",
+        "description": "10% discount on food",
+        "url": "https://thealchemist.uk.com/venues/oxford-westgate-centre/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Benito's Hat",
+        "description": "20% discount (Sun-Fri)",
+        "url": "https://benitos-hat.com/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Branca",
+        "description": "20% discount (Sun-Thu)",
+        "url": "https://www.branca.co.uk/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Brasserie Blanc",
+        "description": "Three courses for the price of two",
+        "url": "https://brasserieblanc.com/restaurants/oxford/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Café Rouge",
+        "description": "25% discount",
+        "url": "http://www.caferouge.com/locations/oxford",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Cinnamon Kitchen Oxford",
+        "description": "30% discount when dining (Sun-Thu)",
+        "url": "http://www.cinnamon-kitchen.com/westgate-oxford/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Côte Brasserie",
+        "description": "Complimentary Kir Royale when dining",
+        "url": "http://www.cote-restaurants.co.uk/Cote_Restaurant_Oxford.html",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Dirty Bones",
+        "description": "25% off food, £5 signature cocktails all day/night (Sun-Thur)",
+        "url": "https://dirty-bones.com/locations/oxford",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Mamma Mia Pizzeria",
+        "description": "20% discount (Tue–Fri, 17:00–19:30)",
+        "url": "http://www.mammamiapizzeria.co.uk/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Moshi",
+        "description": "15% discount (after 15:00)",
+        "url": "https://www.facebook.com/pages/Moshi/418296448253991",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Neds Noodle Box",
+        "description": "15% discount",
+        "url": "https://westgateoxford.co.uk/food-and-drink/neds-noodle-bar",
+        "type": "Restaurants"
+    },
+    {
+        "name": "No. 1 Ship Street",
+        "description": "15% discount (Mon-Thu)",
+        "url": "https://www.no1shipstreet.com/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Pieminster",
+        "description": "10% discount",
+        "url": "http://www.pieminister.co.uk/restaurants/the-covered-market/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Pizza Pilgrims",
+        "description": "25% discount",
+        "url": "https://www.pizzapilgrims.co.uk/venues/oxford/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Salt 'n' Sauce",
+        "description": "20% discount",
+        "url": "https://westgateoxford.co.uk/food-and-drink/salt-n-sauce",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Tommi's Burger Joint",
+        "description": "15% discount",
+        "url": "https://westgateoxford.co.uk/food-and-drink/tommis-burger-joint",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Turl Street Kitchen",
+        "description": "15% discount (after 12:00)",
+        "url": "https://www.turlstreetkitchen.co.uk/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Victors",
+        "description": "20% discount (Sun-Fri)",
+        "url": "https://westgateoxford.co.uk/food-and-drink/victors",
+        "type": "Restaurants"
+    },
+    {
+        "name": "The Body Shop",
+        "description": "25% discount",
+        "url": "https://westgateoxford.co.uk/shops/body-shop",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "Burrows and Hare",
+        "description": "10% discount",
+        "url": "https://www.burrowsandhare.co.uk/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "The Fragrance Shop",
+        "description": "10% discount",
+        "url": "https://westgateoxford.co.uk/shops/fragrance-shop",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "Fudge Kitchen",
+        "description": "5 slices for £16 (or 7 for £22)",
+        "url": "http://www.fudgekitchen.co.uk/find-us/shops/oxford-fudge-kitchen-shop",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "Happy Cakes",
+        "description": "15% discount",
+        "url": "http://www.happy-cakes.co.uk/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "T M Lewin",
+        "description": "15% discount",
+        "url": "https://westgateoxford.co.uk/shops/t-m-lewin",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "OxBicycles",
+        "description": "Complimentary bike lock upon bike purchase",
+        "url": "http://www.oxbicycles.co.uk/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "Oxford Wine Company",
+        "description": "10% discount",
+        "url": "https://www.oxfordwine.co.uk/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "U Drive Cars",
+        "description": "20% discount supercar driving experience",
+        "url": "https://www.udrivecars.com/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "Ultimate Picture Palace",
+        "description": "2 for 1 on Tuesday",
+        "url": "http://www.uppcinema.com/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "WHSmith",
+        "description": "20% discount on books, stationery, cards",
+        "url": "https://www.whsmith.co.uk/",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "ZipCar",
+        "description": "Half price membership and £30 driving credit",
+        "url": "https://www.zipcar.co.uk/",
+        "type": "Shops & Others"
+    }
+]
