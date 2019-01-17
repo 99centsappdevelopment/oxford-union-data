@@ -1,6 +1,6 @@
 [
     {
-        "week": 1,
+        "week": "1",
         "emergencyPrizes": [
             {
                 "name": "Turtle Bay",
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "week": 6,
+        "week": "6",
         "emergencyPrizes": [
             {
                 "name": "Hanks",
