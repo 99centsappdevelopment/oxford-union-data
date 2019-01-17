@@ -210,15 +210,15 @@
         "type": "Restaurants"
     },
     {
-        "name": "Carluccio’s",
-        "description": "25% discount (excluding set menu)",
-        "url": "https://www.carluccios.com/restaurant/oxford/",
-        "type": "Restaurants"
-    },
-    {
         "name": "Café Rouge",
         "description": "40% discount (a la carte)",
         "url": "https://www.bookatable.co.uk/cafe-rouge-oxford-oxfordshire",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Carluccio’s",
+        "description": "25% discount (excluding set menu)",
+        "url": "https://www.carluccios.com/restaurant/oxford/",
         "type": "Restaurants"
     },
     {
@@ -378,15 +378,15 @@
         "type": "Shops & Others"
     },
     {
-        "name": "WHSmith",
-        "description": "20% discount on books, stationery, cards",
-        "url": "https://www.whsmith.co.uk/",
-        "type": "Shops & Others"
-    },
-    {
         "name": "Western Computer Group",
         "description": "10% discount on Mac, 5% discount on iPad",
         "url": "https://www.western.co.uk/stores/oxford.aspx",
+        "type": "Shops & Others"
+    },
+    {
+        "name": "WHSmith",
+        "description": "20% discount on books, stationery, cards",
+        "url": "https://www.whsmith.co.uk/",
         "type": "Shops & Others"
     }
 ]
