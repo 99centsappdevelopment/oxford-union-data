@@ -1,0 +1,117 @@
+{
+    "president": {
+        "name": "Stephen Horvath",
+        "blurb": "Welcome to the Oxford Union, the largest society at the University of Oxford.  With a tradition of hosting debates and speakers stretching back to 1823, the Union is a student Society like no other - in the words of former Prime Minister and Union Officer Harold Macmillan, it is “the last bastion of free speech in the Western World.\"  \n\nOur termcard has now been released, and you can view it HERE. With a line-up of speakers ranging from Heads of State to actors, and debates on everything from World War One to the limits of science, we hope there is something for all members. If you have any questions about this term or suggestions for future terms, please do get in touch with us at enquiries@oxford-union.org.",
+        "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Horvath.png",
+        "college": "New College"
+    },
+    "librarian": {
+        "name": "Genevieve Athis",
+        "college": "Christ Church",
+        "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Athis.JPG"
+    },
+    "treasurer": {
+        "name": "James Lamming",
+        "college": "Exeter College",
+        "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Lamming.JPG"
+    },
+    "secretary": {
+        "name": "Nick Brown",
+        "college": "Magdalen College",
+        "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Brown.JPG"
+    },
+    "standing": [
+        {
+            "name": "Rebecca Collins",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Collins.JPG",
+            "college": "Balliol College"
+        },
+        {
+            "name": "Sara Dube",
+            "college": "St Hugh's College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Dube.jpg"
+        },
+        {
+            "name": "Gemma Timmons",
+            "college": "Magdalen College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Timmons.JPG"
+        },
+        {
+            "name": "Anisha Faruk",
+            "college": "Queen's College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Faruk.PNG"
+        },
+        {
+            "name": "Harry Webster",
+            "college": "Worcester College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Webster.jpg"
+        },
+        {
+            "name": "Mahi Joshi",
+            "college": "Trinity College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Joshi.JPG"
+        },
+        {
+            "name": "Maxim Parr-Reid",
+            "college": "Trinity College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Parr-Reid.jpg"
+        }
+    ],
+    "seccies": [
+        {
+            "name": "Olivia Railton",
+            "college": "Wadham College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Railton.JPG"
+        },
+        {
+            "name": "Chaitanya Kediyal",
+            "college": "Exeter College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Kediyal.jpg"
+        },
+        {
+            "name": "Abishek Adavikolanu",
+            "college": "Pembroke College",
+            "photoUrl": "https://github.com/hughbe/oxford-union-data/raw/master/Committe%20Photos/2018-MT/Adavikolanu.JPEG"
+        },
+        {
+            "name": "Roman Marshall",
+            "college": "Jesus College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Marshall.jpg"
+        },
+        {
+            "name": "Jack Blowers",
+            "college": "Oriel College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Blowers.png"
+        },
+        {
+            "name": "Jim Brennan",
+            "college": "St Peter's College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Brennan.jpg"
+        },
+        {
+            "name": "Hugh Bellamy",
+            "college": "Lady Margaret Hall",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Bellamy.jpg"
+        },
+        {
+            "name": "Shining Zhao",
+            "college": "University College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Zhao.PNG"
+        },
+        {
+            "name": "Parth Ahya",
+            "college": "Keble College",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Ahya.jpg"
+        },
+        {
+            "name": "Ella Penny",
+            "college": "St Edmund Hall",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Penny.jpg"
+        },
+        {
+            "name": "James Dix",
+            "college": "Christ Church",
+            "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2018-MT/Dix.png"
+        }
+    ]
+}
