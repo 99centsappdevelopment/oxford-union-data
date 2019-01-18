@@ -5,24 +5,28 @@
             {
                 "name": "Turtle Bay",
                 "description": "Three-course meal for two plus cocktails",
-                "photoUrl": "https://sbstotalfm.co.uk/wp-content/uploads/2018/03/Turtle-Bay.jpg"
+                "photoUrl": "https://sbstotalfm.co.uk/wp-content/uploads/2018/03/Turtle-Bay.jpg",
+                "url": "https://www.turtlebay.co.uk/locations/oxford/"
             }
         ],
         "mainPrizes": [
             {
                 "name": "Victors",
                 "description": "Three course meal for two with prosecco",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub",
+                "url": "https://westgateoxford.co.uk/food-and-drink/victors"
             },
             {
                 "name": "Cinnamon Kitchen",
                 "description": "Sharing menu for two with bottle of wine",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09",
+                "url": "http://www.cinnamon-kitchen.com/westgate-oxford/"
             },
             {
                 "name": "Jericho Kitchen Cookery School",
                 "description": "Two cookery classes",
-                "photoUrl": "http://goodfoodoxford.org/wp-content/uploads/2016/09/TJC_Logo.png"
+                "photoUrl": "http://goodfoodoxford.org/wp-content/uploads/2016/09/TJC_Logo.png",
+                "url": "https://www.jerichokitchen.co.uk/"
             }
         ]
     },
@@ -32,24 +36,28 @@
             {
                 "name": "White Rabbit",
                 "description": "Pizzas for four with beer or wine",
-                "photoUrl": "https://www.snowshoemtn.com/-/media/snowshoe/food-and-beverage-images/whiterabbitlogo1176.ashx?h=432&w=768&hash=06F89C792A71D3BC016562B1CD7EE8E0E9C46959"
+                "photoUrl": "https://www.snowshoemtn.com/-/media/snowshoe/food-and-beverage-images/whiterabbitlogo1176.ashx?h=432&w=768&hash=06F89C792A71D3BC016562B1CD7EE8E0E9C46959",
+                "url": "http://www.whiterabbitoxford.co.uk/"
             }
         ],
         "mainPrizes": [
             {
                 "name": "Kellogg Ball",
                 "description": "Two tickets",
-                "photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/49721780_253538068896599_5184920631816224768_n.png?_nc_cat=102&_nc_ht=scontent-lht6-1.xx&oh=0855445408aa3b2404584040570afb80&oe=5CFEB37F"
+                "photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/49721780_253538068896599_5184920631816224768_n.png?_nc_cat=102&_nc_ht=scontent-lht6-1.xx&oh=0855445408aa3b2404584040570afb80&oe=5CFEB37F",
+                "url": "https://www.facebook.com/kelloggball2019/"
             },
             {
                 "name": "Macdonald Randolph Hotel",
                 "description": "Three-course meal for two with champagne",
-                "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/4f/85/70/afternoon-tea-at-macdonald.jpg"
+                "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/4f/85/70/afternoon-tea-at-macdonald.jpg",
+                "url": "https://www.macdonaldhotels.co.uk/our-hotels/south-england/oxford/macdonald-randolph-hotel"
             },
             {
                 "name": "Victors",
                 "description": "Three course meal for two with prosecco",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub",
+                "url": "https://westgateoxford.co.uk/food-and-drink/victors"
             }
         ]
     },
@@ -66,17 +74,20 @@
             {
                 "name": "Cinnamon Kitchen",
                 "description": "Sharing menu for two with a bottle of wine",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09",
+                "url": "http://www.cinnamon-kitchen.com/westgate-oxford/"
             },
             {
                 "name": "The Perch",
                 "description": "Three course meal for two with bottle of wine",
-                "photoUrl": "http://the-perch.co.uk/img/the-perch-oxford.png"
+                "photoUrl": "http://the-perch.co.uk/img/the-perch-oxford.png",
+                "url": "http://the-perch.co.uk/"
             },
             {
                 "name": "Bella Italia",
                 "description": "£100 voucher",
-                "photoUrl": "https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/bella-italia-transparent_0.png"
+                "photoUrl": "https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/bella-italia-transparent_0.png",
+                "url": "https://www.bellaitalia.co.uk/italian-restaurant/oxford/george-street"
             }
         ]
     },
@@ -93,17 +104,20 @@
             {
                 "name": "Old Bank Hotel",
                 "description": "Luxury overnight stay",
-                "photoUrl": "https://s3-media4.fl.yelpcdn.com/bphoto/haqkcyoEw9hsFliagpiG7w/348s.jpg"
+                "photoUrl": "https://s3-media4.fl.yelpcdn.com/bphoto/haqkcyoEw9hsFliagpiG7w/348s.jpg",
+                "url": "https://www.oldbank-hotel.co.uk/"
             },
             {
                 "name": "Victors",
                 "description": "Three course meal for two with prosecco",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/victors_crest-grey.jpg?itok=D_bdQFub",
+                "url": "https://westgateoxford.co.uk/food-and-drink/victors"
             },
             {
                 "name": "Mamma Mia Summertown",
                 "description": "Three course meal for two with bottle of wine",
-                "photoUrl": "http://www.mammamiapizzeria.co.uk/images/mm-logo-est81.png"
+                "photoUrl": "http://www.mammamiapizzeria.co.uk/images/mm-logo-est81.png",
+                "url": "http://www.mammamiapizzeria.co.uk/"
             }
         ]
     },
@@ -113,24 +127,28 @@
             {
                 "name": "Odeon",
                 "description": "Five Silver Guest Passes",
-                "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Odeon_logo.svg/1280px-Odeon_logo.svg.png"
+                "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Odeon_logo.svg/1280px-Odeon_logo.svg.png",
+                "url": "https://www.odeon.co.uk/cinemas/oxford_george_st/115/"
             }
         ],
         "mainPrizes": [
             {
                 "name": "TM Lewin",
                 "description": "Two-piece suit",
-                "photoUrl": "http://customerservicecontactnumbers.co.uk/wp-content/uploads/2017/04/TM-Logo_black_Est_strapline.jpg"
+                "photoUrl": "http://customerservicecontactnumbers.co.uk/wp-content/uploads/2017/04/TM-Logo_black_Est_strapline.jpg",
+                "url": "https://westgateoxford.co.uk/shops/t-m-lewin"
             },
             {
                 "name": "No. 1 Ship Street",
                 "description": "Three course meal for two with bottle of champagne",
-                "photoUrl": "https://static.wixstatic.com/media/56dd5e_3e6f123072454cf6b8f2950fc84bbeab~mv2.jpg"
+                "photoUrl": "https://static.wixstatic.com/media/56dd5e_3e6f123072454cf6b8f2950fc84bbeab~mv2.jpg",
+                "url": "https://www.no1shipstreet.com/"
             },
             {
                 "name": "Shoryu",
                 "description": "Three course meal for two with drinks",
-                "photoUrl": "https://www.carnaby.co.uk/assets/images/directory/thumbs/logo-shoryu.png"
+                "photoUrl": "https://www.carnaby.co.uk/assets/images/directory/thumbs/logo-shoryu.png",
+                "url": "https://www.shoryuramen.com/stores/82-oxford"
             }
         ]
     },
@@ -147,17 +165,20 @@
             {
                 "name": "Burrows & Hare",
                 "description": "£150 voucher",
-                "photoUrl": "https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/burrows.png"
+                "photoUrl": "https://wl3-cdn.landsec.com/sites/default/files/images/shops/logos/burrows.png",
+                "url": "https://www.burrowsandhare.co.uk/"
             },
             {
                 "name": "Gee’s",
                 "description": "Three course meal for two with bottle of wine",
-                "photoUrl": "https://www.gees-restaurant.co.uk/wp-content/themes/mogford/assets/img/sites/gees/gees_brand.png"
+                "photoUrl": "https://www.gees-restaurant.co.uk/wp-content/themes/mogford/assets/img/sites/gees/gees_brand.png",
+                "url": "https://www.gees-restaurant.co.uk/"
             },
             {
                 "name": "Cherwell Boat House",
                 "description": "Three course meal for two with wine",
-                "photoUrl": "https://pbs.twimg.com/profile_images/724403744323055616/_Y3BWKHg_400x400.jpg"
+                "photoUrl": "https://pbs.twimg.com/profile_images/724403744323055616/_Y3BWKHg_400x400.jpg",
+                "url": "http://cherwellboathouse.co.uk/"
             }
         ]
     },
@@ -172,17 +193,20 @@
             {
                 "name": "Macdonald Randolph Hotel",
                 "description": "Three-course meal for two with champagne",
-                "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/4f/85/70/afternoon-tea-at-macdonald.jpg"
+                "photoUrl": "https://media-cdn.tripadvisor.com/media/photo-s/06/4f/85/70/afternoon-tea-at-macdonald.jpg",
+                "url": "https://www.macdonaldhotels.co.uk/our-hotels/south-england/oxford/macdonald-randolph-hotel"
             },
             {
                 "name": "TM Lewin",
                 "description": "Working week of shirts or blouses",
-                "photoUrl": "http://customerservicecontactnumbers.co.uk/wp-content/uploads/2017/04/TM-Logo_black_Est_strapline.jpg"
+                "photoUrl": "http://customerservicecontactnumbers.co.uk/wp-content/uploads/2017/04/TM-Logo_black_Est_strapline.jpg",
+                "url": "https://westgateoxford.co.uk/shops/t-m-lewin"
             },
             {
                 "name": "Dirty Bones",
                 "description": "Three course meal for two with cocktails",
-                "photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15356484_979820018791088_734913770464931002_n.png?_nc_cat=103&_nc_ht=scontent-lht6-1.xx&oh=6b8c7c3724a3fd77f4d647c10229f054&oe=5CD02BF4"
+                "photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/15356484_979820018791088_734913770464931002_n.png?_nc_cat=103&_nc_ht=scontent-lht6-1.xx&oh=6b8c7c3724a3fd77f4d647c10229f054&oe=5CD02BF4",
+                "url": "https://dirty-bones.com/locations/oxford"
             }
         ]
     },
@@ -199,17 +223,20 @@
             {
                 "name": "Quod",
                 "description": "Three course meal for two with bottle of wine",
-                "photoUrl": "https://www.ashmolean.org/sites/default/files/styles/listing_tile_text_displayed_image/public/ashmolean/images/media/quod_logo_-_image.jpg?itok=YXolw77-"
+                "photoUrl": "https://www.ashmolean.org/sites/default/files/styles/listing_tile_text_displayed_image/public/ashmolean/images/media/quod_logo_-_image.jpg?itok=YXolw77-",
+                "url": "https://www.quod.co.uk/"
             },
             {
                 "name": "Cinnamon Kitchen",
                 "description": "Sharing menu for two with bottle of wine",
-                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09"
+                "photoUrl": "https://westgateoxford.co.uk/sites/westgate/files/styles/shop_logo/public/images/shops/logos/logo_0.jpg?itok=W6Bzqa09",
+                "url": "http://www.cinnamon-kitchen.com/westgate-oxford/"
             },
             {
                 "name": "Mamma Mia Jericho",
                 "description": "Three course meal for two with bottle of wine",
-                "photoUrl": "http://www.mammamiapizzeria.co.uk/images/mm-logo-est81.png"
+                "photoUrl": "http://www.mammamiapizzeria.co.uk/images/mm-logo-est81.png",
+                "url": "http://www.mammamiapizzeria.co.uk/"
             }
         ]
     }
