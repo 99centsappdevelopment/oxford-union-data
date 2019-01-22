@@ -199,5 +199,47 @@
             "name": "Benedict Altier; Jeremy Mbararia; Marcel Satria; Natasha Naidoo",
             "position": "Sponsorship Officers"
         }
+    ],
+    "liberationOfficers": [
+        {
+            "name": "Brian Wong",
+            "position": "Access Officer"
+        },
+        {
+            "name": "Amelia Harvey",
+            "position": "Access Officer"
+        },
+        {
+            "name": "Elisa Gómez Alemán",
+            "position": "Disabilities Officer"
+        },
+        {
+            "name": "Jay Priyesh Patel",
+            "position": "Ethnic Minorities Officer"
+        },
+        {
+            "name": "Garang Dut",
+            "position": "Graduate Officer"
+        },
+        {
+            "name": "Alice Zhang",
+            "position": "International Officer"
+        },
+        {
+            "name": "Mohamed Hussein Iman",
+            "position": "LGBTQIA+ Officer"
+        },
+        {
+            "name": "Amelia Bircham",
+            "position": "Socioeconomic Officer"
+        },
+        {
+            "name": "Olly Woodhouse",
+            "position": "Temporary Membership Officer"
+        },
+        {
+            "name": "Priscilla Guo",
+            "position": "Women’s Officer"
+        }
     ]
 }
