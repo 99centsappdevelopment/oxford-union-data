@@ -165,5 +165,39 @@
             "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2019-HT/John%20Glance.jpg",
             "position": "Director of Sponsorship"
         }
+    ],
+    "otherAppointed": [
+        {
+            "name": "Lee Chin Wee",
+            "position": "CDSC"
+        },
+        {
+            "name": "Louise Kandler",
+            "position": "Returning Officer"
+        },
+        {
+            "name": "Samuel Burns",
+            "position": "CCS"
+        },
+        {
+            "name": "Jack Blowers",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "Hugh Nicholl",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "James Johnson; Nils Lovegren; Oliver Tushingham",
+            "position": "Logistics Officers"
+        },
+        {
+            "name": "Aastha Tyagi; Micah Oliver Lee; Miriam Ames Feldman",
+            "position": "Press Officers"
+        },
+        {
+            "name": "Benedict Altier; Jeremy Mbararia; Marcel Satria; Natasha Naidoo",
+            "position": "Sponsorship Officers"
+        }
     ]
 }
