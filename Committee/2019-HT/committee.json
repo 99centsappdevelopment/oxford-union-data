@@ -241,5 +241,31 @@
             "name": "Priscilla Guo",
             "position": "Women’s Officer"
         }
+    ],
+    "staffAndTrustees": [
+        {
+            "name": "Lindsey Warne",
+            "position": "Bursar"
+        },
+        {
+            "name": "Bridget Gaughan",
+            "position": "House Manager"
+        },
+        {
+            "name": "Thomas Corrick",
+            "position": "Librarian-in-Charge"
+        },
+        {
+            "name": "Joanne Morgan; Angela Eustice",
+            "position": "Events Manager"
+        },
+        {
+            "name": "Rob Phillips",
+            "position": "Accounts Manager"
+        },
+        {
+            "name": "Hon. Peter Jay; Sean Power, Senior Librarian; Stephen Dixon, Senior Treasurer",
+            "position": "Trustees"
+        }
     ]
 }
