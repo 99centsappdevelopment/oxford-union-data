@@ -165,5 +165,107 @@
             "photoUrl": "https://raw.githubusercontent.com/hughbe/oxford-union-data/master/Committe%20Photos/2019-HT/John%20Glance.jpg",
             "position": "Director of Sponsorship"
         }
+    ],
+    "otherAppointed": [
+        {
+            "name": "Lee Chin Wee",
+            "position": "CDSC"
+        },
+        {
+            "name": "Louise Kandler",
+            "position": "Returning Officer"
+        },
+        {
+            "name": "Samuel Burns",
+            "position": "CCS"
+        },
+        {
+            "name": "Jack Blowers",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "Hugh Nicholl",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "James Johnson; Nils Lovegren; Oliver Tushingham",
+            "position": "Logistics Officers"
+        },
+        {
+            "name": "Aastha Tyagi; Micah Oliver Lee; Miriam Ames Feldman",
+            "position": "Press Officers"
+        },
+        {
+            "name": "Benedict Altier; Jeremy Mbararia; Marcel Satria; Natasha Naidoo",
+            "position": "Sponsorship Officers"
+        }
+    ],
+    "liberationOfficers": [
+        {
+            "name": "Brian Wong",
+            "position": "Access Officer"
+        },
+        {
+            "name": "Amelia Harvey",
+            "position": "Access Officer"
+        },
+        {
+            "name": "Elisa Gómez Alemán",
+            "position": "Disabilities Officer"
+        },
+        {
+            "name": "Jay Priyesh Patel",
+            "position": "Ethnic Minorities Officer"
+        },
+        {
+            "name": "Garang Dut",
+            "position": "Graduate Officer"
+        },
+        {
+            "name": "Alice Zhang",
+            "position": "International Officer"
+        },
+        {
+            "name": "Mohamed Hussein Iman",
+            "position": "LGBTQIA+ Officer"
+        },
+        {
+            "name": "Amelia Bircham",
+            "position": "Socioeconomic Officer"
+        },
+        {
+            "name": "Olly Woodhouse",
+            "position": "Temporary Membership Officer"
+        },
+        {
+            "name": "Priscilla Guo",
+            "position": "Women’s Officer"
+        }
+    ],
+    "staffAndTrustees": [
+        {
+            "name": "Lindsey Warne",
+            "position": "Bursar"
+        },
+        {
+            "name": "Bridget Gaughan",
+            "position": "House Manager"
+        },
+        {
+            "name": "Thomas Corrick",
+            "position": "Librarian-in-Charge"
+        },
+        {
+            "name": "Joanne Morgan; Angela Eustice",
+            "position": "Events Manager"
+        },
+        {
+            "name": "Rob Phillips",
+            "position": "Accounts Manager"
+        },
+        {
+            "name": "Hon. Peter Jay; Sean Power, Senior Librarian; Stephen Dixon, Senior Treasurer",
+            "position": "Trustees"
+        }
     ]
 }
