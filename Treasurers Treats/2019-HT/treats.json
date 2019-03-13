@@ -388,5 +388,11 @@
         "description": "20% discount on books, stationery, cards",
         "url": "https://www.whsmith.co.uk/",
         "type": "Shops & Others"
+    },
+    {
+        "name": "Popham",
+        "description": "15% discount Mondays-Fridays",
+        "url": "http://www.popham.com",
+        "type": "Shops & Others"
     }
 ]
