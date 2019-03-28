@@ -1,0 +1,270 @@
+{
+    "president": {
+        "name": "Genevieve Athis",
+        "college": "Christ Church",
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committe Photos/2019-TT/Genevieve Athis.jpg"
+    },
+    "presidentElect": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "librarian": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "librarianElect": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "treasurer": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "treasurerElect": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "secretary": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "ccc": {
+        "name": "",
+        "college": "",
+        "photoUrl": ""
+    },
+    "standing": [
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        }
+    ],
+    "seccies": [
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": ""
+        }
+    ],
+    "seniorAppointed": [
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": "",
+            "position": "Chief of Staff"
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": "",
+            "position": "Director of Digital Operations"
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": "",
+            "position": "Director of Operations"
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": "",
+            "position": "Director of Press"
+        },
+        {
+            "name": "",
+            "college": "",
+            "photoUrl": "",
+            "position": "Director of Sponsorship"
+        }
+    ],
+    "otherAppointed": [
+        {
+            "name": "",
+            "position": "CDSC"
+        },
+        {
+            "name": "",
+            "position": "Returning Officer"
+        },
+        {
+            "name": "",
+            "position": "CCS"
+        },
+        {
+            "name": "",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "",
+            "position": "Deputy CCC"
+        },
+        {
+            "name": "",
+            "position": "Logisitics Officers"
+        },
+        {
+            "name": "",
+            "position": "Press Officers"
+        },
+        {
+            "name": "",
+            "position": "Sponsorship Officers"
+        }
+    ],
+    "liberationOfficers": [
+        {
+            "name": "",
+            "position": "Access Officer"
+        },
+        {
+            "name": "",
+            "position": "Access Officer"
+        },
+        {
+            "name": "",
+            "position": "Disabilities Officer"
+        },
+        {
+            "name": "",
+            "position": "Ethnic Minorities Officer"
+        },
+        {
+            "name": "",
+            "position": "Graduate Officer"
+        },
+        {
+            "name": "",
+            "position": "International Officer"
+        },
+        {
+            "name": "",
+            "position": "LGBTQIA+ Officer"
+        },
+        {
+            "name": "",
+            "position": "Socioeconomic Officer"
+        },
+        {
+            "name": "",
+            "position": "Temporary Membership Officer"
+        },
+        {
+            "name": "",
+            "position": "Women’s Officer"
+        }
+    ],
+    "staffAndTrustees": [
+        {
+            "name": "Lindsey Warne",
+            "position": "Bursar"
+        },
+        {
+            "name": "Bridget Gaughan",
+            "position": "House Manager"
+        },
+        {
+            "name": "Thomas Corrick",
+            "position": "Librarian-in-Charge"
+        },
+        {
+            "name": "Joanne Morgan; Angela Eustice",
+            "position": "Events Manager"
+        },
+        {
+            "name": "Rob Phillips",
+            "position": "Accounts Manager"
+        },
+        {
+            "name": "Hon. Peter Jay; Sean Power, Senior Librarian; Stephen Dixon, Senior Treasurer",
+            "position": "Trustees"
+        }
+    ]
+}
