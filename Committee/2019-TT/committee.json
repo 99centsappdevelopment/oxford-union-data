@@ -162,77 +162,73 @@
     ],
     "otherAppointed": [
         {
-            "name": "",
+            "name": "Lee Chin Wee",
             "position": "CDSC"
         },
         {
-            "name": "",
+            "name": "Stanislas Lalanne",
             "position": "Returning Officer"
         },
         {
-            "name": "",
+            "name": "Beth Chamberlain",
             "position": "CCS"
         },
         {
-            "name": "",
-            "position": "Deputy CCC"
-        },
-        {
-            "name": "",
-            "position": "Deputy CCC"
-        },
-        {
-            "name": "",
-            "position": "Logisitics Officers"
-        },
-        {
-            "name": "",
+            "name": "Arjun Bhardwaj, Sahil Shah, Aastha Tyagi, Julia Willemyns",
             "position": "Press Officers"
         },
         {
-            "name": "",
+            "name": "Cameron Bovell, Emily Richards, Robert Chamberlain",
+            "position": "Logistics Officers"
+        },
+        {
+            "name": "Cansu Uyguroglu, Simon van Teutem, Nicholas Crompton, Laura Lonsdale",
             "position": "Sponsorship Officers"
+        },
+        {
+            "name": "Francesco Galvanetto, Geneva Roy, Melanie Onovo, Lucia Lamoury, John Glance, James Slater, Jack McClure",
+            "position": "Guest Liaison Officers"
         }
     ],
     "liberationOfficers": [
         {
-            "name": "",
+            "name": "Rabii Malik",
             "position": "Access Officer"
         },
         {
-            "name": "",
+            "name": "Felicity Graham",
             "position": "Access Officer"
         },
         {
-            "name": "",
+            "name": "Fletcher Ransberry",
             "position": "Disabilities Officer"
         },
         {
-            "name": "",
+            "name": "Kamran Ali",
             "position": "Ethnic Minorities Officer"
         },
         {
-            "name": "",
+            "name": "Priyesh Patel",
             "position": "Graduate Officer"
         },
         {
-            "name": "",
+            "name": "Noorie Abbas",
             "position": "International Officer"
         },
         {
-            "name": "",
+            "name": "Joseph Sisson",
             "position": "LGBTQIA+ Officer"
         },
         {
-            "name": "",
+            "name": "Mehr Farhan",
             "position": "Socioeconomic Officer"
         },
         {
-            "name": "",
+            "name": "Maxwell Quinn",
             "position": "Temporary Membership Officer"
         },
         {
-            "name": "",
+            "name": "Varuna Mitra",
             "position": "Women’s Officer"
         }
     ],
