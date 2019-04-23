@@ -5,162 +5,157 @@
         "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committe Photos/2019-TT/Genevieve Athis.jpg"
     },
     "presidentElect": {
-        "name": "",
-        "college": "",
+        "name": "Brendan McGrath",
+        "college": "Oriel College",
         "photoUrl": ""
     },
     "librarian": {
-        "name": "",
-        "college": "",
+        "name": "Sara Dube",
+        "college": "St Hugh's College",
         "photoUrl": ""
     },
     "librarianElect": {
-        "name": "",
-        "college": "",
+        "name": "Mahi Joshi",
+        "college": "Trinity College",
         "photoUrl": ""
     },
     "treasurer": {
-        "name": "",
+        "name": "Charlie Coverman",
         "college": "",
         "photoUrl": ""
     },
     "treasurerElect": {
-        "name": "",
-        "college": "",
+        "name": "Shining Zhao",
+        "college": "University College",
         "photoUrl": ""
     },
     "secretary": {
-        "name": "",
-        "college": "",
+        "name": "Amelia Harvey",
+        "college": "Kellogg College",
         "photoUrl": ""
     },
     "ccc": {
-        "name": "",
-        "college": "",
+        "name": "Elliot Bromley",
+        "college": "St Edmund Hall",
         "photoUrl": ""
     },
     "standing": [
         {
-            "name": "",
-            "college": "",
+            "name": "Spencer Cohen",
+            "college": "Brasenose College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Ayman D'Souza",
+            "college": "Christ Church",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Nikhil Shah",
+            "college": "Exeter College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Beatrice Barr",
+            "college": "St Peter's College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Adam Wilkinson-Hill",
+            "college": "Jesus College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Kitsu Egerton",
+            "college": "Regent's Park College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Mo Iman",
+            "college": "Somerville College",
             "photoUrl": ""
         }
     ],
     "seccies": [
         {
-            "name": "",
-            "college": "",
+            "name": "Chengkai Xie",
+            "college": "Brasenose College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Liam Willis",
+            "college": "Oriel College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Celeste McGinley",
+            "college": "Exeter College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Harry Deacon",
+            "college": "Pembroke College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Benjamin Penny",
+            "college": "St Edmund Hall",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Olivia Streeten",
+            "college": "Balliol College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Nils Lovegren",
+            "college": "Magdalen College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Hannah Kidner",
+            "college": "St Catherine's College",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Jeremy Bararia",
+            "college": "Lady Margaret Hall",
             "photoUrl": ""
         },
         {
-            "name": "",
-            "college": "",
-            "photoUrl": ""
-        },
-        {
-            "name": "",
-            "college": "",
+            "name": "Jack Solomon",
+            "college": "St Peter's College",
             "photoUrl": ""
         }
     ],
     "seniorAppointed": [
         {
-            "name": "",
-            "college": "",
+            "name": "Chaitanya Keydial",
+            "college": "Exeter College",
             "photoUrl": "",
             "position": "Chief of Staff"
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Hugh Bellamy",
+            "college": "Lady Margaret Hall",
             "photoUrl": "",
             "position": "Director of Digital Operations"
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Miriam Feldman",
+            "college": "New College",
             "photoUrl": "",
             "position": "Director of Operations"
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Daniil Ukhorskiy",
+            "college": "Brasenose College",
             "photoUrl": "",
             "position": "Director of Press"
         },
         {
-            "name": "",
-            "college": "",
+            "name": "Olivia Leigh",
+            "college": "Keble College",
             "photoUrl": "",
             "position": "Director of Sponsorship"
         }
