@@ -7,156 +7,156 @@
     "presidentElect": {
         "name": "Brendan McGrath",
         "college": "Oriel College",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/President-Elect%2C%20Brendan%20McGrath%2C%20Oriel%20College.jpg"
     },
     "librarian": {
         "name": "Sara Dube",
         "college": "St Hugh's College",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Librarian%2C%20Sara%20Dube%2C%20St%20Hughs_.jpg"
     },
     "librarianElect": {
         "name": "Mahi Joshi",
         "college": "Trinity College",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Librarian-Elect%2C%20Mahi%20Joshi%2C%20Trinity.jpg"
     },
     "treasurer": {
         "name": "Charlie Coverman",
         "college": "",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Treasurer%2C%20Charlie%20Coverman%2C%20Brasenose%20College.jpeg"
     },
     "treasurerElect": {
         "name": "Shining Zhao",
         "college": "University College",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Treasurer-Elect%2C%20Shining%20Zhao%2C%20University.jpg"
     },
     "secretary": {
         "name": "Amelia Harvey",
         "college": "Kellogg College",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Secretary%2C%20Amelia%20Harvey%2C%20Kellogg%20College.jpg"
     },
     "ccc": {
         "name": "Elliot Bromley",
         "college": "St Edmund Hall",
-        "photoUrl": ""
+        "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Chair%20of%20the%20Consultative%20Committee%2C%20Elliot%20Bromley%2C%20St%20Edmund%20Hall.jpg"
     },
     "standing": [
         {
             "name": "Spencer Cohen",
             "college": "Brasenose College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Spencer%20Cohen%2C%20Brasenose%20College.jpg"
         },
         {
             "name": "Ayman D'Souza",
             "college": "Christ Church",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Ayman%20D_Souza%2C%20Christ%20Church%20College.jpg"
         },
         {
             "name": "Nikhil Shah",
             "college": "Exeter College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Nikhil%20Shah%2C%20Exeter%20College.jpg"
         },
         {
             "name": "Beatrice Barr",
             "college": "St Peter's College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Beatrice%20Barr%2C%20St%20Peter_s%20College.jpg"
         },
         {
             "name": "Adam Wilkinson-Hill",
             "college": "Jesus College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Adam%20Wilkinson-Hill%2C%20Jesus%20College.jpg"
         },
         {
             "name": "Kitsu Egerton",
             "college": "Regent's Park College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Kitsu%20Egerton%2C%20Regent_s%20Park%20College.jpg"
         },
         {
             "name": "Mo Iman",
             "college": "Somerville College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Mohamad%20Iman%2C%20Somerville%20College.jpg"
         }
     ],
     "seccies": [
         {
             "name": "Chengkai Xie",
             "college": "Brasenose College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Chengkai%20Xie%2C%20Brasenose%20College.jpg"
         },
         {
             "name": "Liam Willis",
             "college": "Oriel College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Liam%20Willis%2C%20Oriel%20College.jpeg"
         },
         {
             "name": "Celeste McGinley",
             "college": "Exeter College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Celeste%20McGinley%2C%20Exeter%20College.jpg"
         },
         {
             "name": "Harry Deacon",
             "college": "Pembroke College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Harry%20Deacon%2C%20Pembroke%20College.jpg"
         },
         {
             "name": "Benjamin Penny",
             "college": "St Edmund Hall",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Benjamin%20Penny%2C%20St%20Edmund%20Hall.jpg"
         },
         {
-            "name": "Olivia Streeten",
+            "name": "Olivia Streeton",
             "college": "Balliol College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Olivia%20Streeton%2C%20Balliol%20College.jpg"
         },
         {
             "name": "Nils Lovegren",
             "college": "Magdalen College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Nils%20Lovegren%2C%20Magdalen%20College.jpg"
         },
         {
             "name": "Hannah Kidner",
             "college": "St Catherine's College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Hannah%20Kidner%2C%20St%20Catherine_s%20College.jpg"
         },
         {
-            "name": "Jeremy Bararia",
+            "name": "Jeremy Mbararia",
             "college": "Lady Margaret Hall",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Jeremy%20Mbararia%2C%20Lady%20Margaret%20Hall.HEIC"
         },
         {
             "name": "Jack Solomon",
             "college": "St Peter's College",
-            "photoUrl": ""
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Jack%20Solomon%2C%20St%20Peter_s%20College.jpg"
         }
     ],
     "seniorAppointed": [
         {
-            "name": "Chaitanya Keydial",
+            "name": "Chaitanya Kediyal",
             "college": "Exeter College",
-            "photoUrl": "",
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Chief%20of%20Staff%2C%20Chaitanya%20Kediyal%2C%20Exeter.jpg",
             "position": "Chief of Staff"
         },
         {
             "name": "Hugh Bellamy",
             "college": "Lady Margaret Hall",
-            "photoUrl": "",
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Director%20of%20Digital%20Operations%2C%20Hugh%20Bellamy%2C%20LMH.jpg",
             "position": "Director of Digital Operations"
         },
         {
             "name": "Miriam Feldman",
             "college": "New College",
-            "photoUrl": "",
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Director%20of%20Operations%2C%20Miriam%20Feldman%2C%20New%20College.jpg",
             "position": "Director of Operations"
         },
         {
             "name": "Daniil Ukhorskiy",
             "college": "Brasenose College",
-            "photoUrl": "",
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Director%20of%20Press%20_%20Public%20Relations%2C%20Daniil%20Ukhorskiy%2C%20Brasenose%20College.jpg",
             "position": "Director of Press"
         },
         {
             "name": "Olivia Leigh",
             "college": "Keble College",
-            "photoUrl": "",
+            "photoUrl": "https://raw.githubusercontent.com/oxford-union/oxford-union-data/master/Committee%20Photos/2019-TT/Director%20of%20Sponsorship%2C%20Olivia%20Leigh%2C%20Keble%20College.jpg",
             "position": "Director of Sponsorship"
         }
     ],
