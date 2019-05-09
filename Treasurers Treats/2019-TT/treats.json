@@ -7,7 +7,7 @@
     },
     {
         "name": "Be At One",
-        "description": "£5 cocktails (Sun-Thu)",
+        "description": "£5 cocktails (Sun- Thu)",
         "url": "https://www.beatone.co.uk/",
         "type": "Bars"
     },
@@ -19,13 +19,13 @@
     },
     {
         "name": "Duke of Monmouth",
-        "description": "10% discount on purchases up to £20",
+        "description": "10% discount (up to £20)",
         "url": "https://www.greeneking-pubs.co.uk/pubs/oxfordshire/duke-of-monmouth/",
         "type": "Bars"
     },
     {
         "name": "Hanks Bar",
-        "description": "20% discount",
+        "description": "20% discount on drinks and pizza",
         "url": "http://www.hanksbar.co.uk/",
         "type": "Bars"
     },
@@ -43,7 +43,7 @@
     },
     {
         "name": "Royal Standard",
-        "description": "10% discount on purchases up to £20",
+        "description": "10% discount (up to £20)",
         "url": "https://www.greeneking-pubs.co.uk/pubs/oxfordshire/royal-standard/",
         "type": "Bars"
     },
@@ -63,6 +63,12 @@
         "name": "The Oxford Wine Cafe",
         "description": "10% discount",
         "url": "http://www.oxfordwinecafe.co.uk/",
+        "type": "Bars"
+    },
+    {
+        "name": "Love Jericho Bar",
+        "description": "20% Discount",
+        "url": "https://lovejericho-oxford.co.uk/",
         "type": "Bars"
     },
     {
@@ -175,7 +181,7 @@
     },
     {
         "name": "Sofi de France",
-        "description": "15% discount, 20% if over £20 (exc Sat)",
+        "description": "10% discount anytime (15% if over £20, excluding Saturday)",
         "url": "http://cafedumarche-oxford.com/",
         "type": "Cafés & Delicatessens"
     },
@@ -199,31 +205,31 @@
     },
     {
         "name": "Ask Italian",
-        "description": "25% discount (Mon-Thu any time, Fri before 1600)",
+        "description": "25% discount on all purchases (Monday to Thursday) 25% discount on all purchases made before 16:00 (Friday)",
         "url": "https://www.askitalian.co.uk/restaurant/oxford/",
         "type": "Restaurants"
     },
     {
         "name": "Bamboo",
-        "description": "10% discount",
+        "description": "10% discount on all purchases",
         "url": "http://www.bamboofood.co.uk/",
         "type": "Restaurants"
     },
     {
         "name": "Café Rouge",
-        "description": "40% discount (a la carte)",
+        "description": "40% on a la carte menu at all times",
         "url": "https://www.bookatable.co.uk/cafe-rouge-oxford-oxfordshire",
         "type": "Restaurants"
     },
     {
         "name": "Carluccio’s",
-        "description": "20% discount (excluding set menu)",
+        "description": "25% all times. Can't combine with other offers or set menu",
         "url": "https://www.carluccios.com/restaurant/oxford/",
         "type": "Restaurants"
     },
     {
         "name": "Cinnamon Kitchen Oxford",
-        "description": "30% discount (Sun-Thu), 2 classic cocktails for £10 (Sun-Thu)",
+        "description": "2 cocktails for £10; 30% discount when dining;",
         "url": "http://www.cinnamon-kitchen.com/westgate-oxford/",
         "type": "Restaurants"
     },
@@ -235,19 +241,19 @@
     },
     {
         "name": "Dirty Bones",
-        "description": "25% off food (Sun-Thu), £5 signature cocktails all day/night (Sun-Thu)",
+        "description": "25% off food (Sunday to Thursday only); and £5 signature cocktails at all times (Sunday to Thursday only)",
         "url": "https://dirty-bones.com/locations/oxford",
         "type": "Restaurants"
     },
     {
         "name": "Fusion House",
-        "description": "10% discount (over £20, cash only)",
+        "description": "10% discount on orders over £20 paid in cash",
         "url": "https://www.dailyinfo.co.uk/places/food-and-drink/restaurants/t2-p802/fusion-house",
         "type": "Restaurants"
     },
     {
         "name": "Mamma Mia Pizzeria",
-        "description": "20% discount (Tue-Fri, 17:00-19:30)",
+        "description": "20% discount (Tue–Fri, 17:00–19:30)",
         "url": "http://www.mammamiapizzeria.co.uk/",
         "type": "Restaurants"
     },
@@ -295,19 +301,19 @@
     },
     {
         "name": "Taste of China",
-        "description": "10% discount (Mon-Fri, 14:00-16:00)",
+        "description": "10% discount on food between 1400-1600, Monday-Friday",
         "url": "https://a-taste-of-china-oxford.co.uk/",
         "type": "Restaurants"
     },
     {
         "name": "Thaikhun",
-        "description": "20% discount (Sun-Thu)",
+        "description": "20% discount off food Sun-Thu",
         "url": "https://www.thaikhun.co.uk/thai-restaurant/oxford/",
         "type": "Restaurants"
     },
     {
         "name": "The Alchemist",
-        "description": "10% discount on food",
+        "description": "20% off food",
         "url": "https://thealchemist.uk.com/venues/oxford-westgate-centre/",
         "type": "Restaurants"
     },
@@ -325,8 +331,26 @@
     },
     {
         "name": "Victors",
-        "description": "20% discount (Sun-Fri)",
+        "description": "20% discount (Sun- Fri)",
         "url": "https://westgateoxford.co.uk/food-and-drink/victors",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Sojo",
+        "description": "10% discount",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g186361-d2306623-Reviews-SoJo-Oxford_Oxfordshire_England.html",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Opium Den",
+        "description": "10% discount",
+        "url": "http://www.opiumden.co.uk/",
+        "type": "Restaurants"
+    },
+    {
+        "name": "Il Principe",
+        "description": "10% discount on their \"Take Away Menu\"",
+        "url": "http://ilprincipedeli.co.uk/",
         "type": "Restaurants"
     },
     {
